@@ -1,0 +1,28 @@
+Casserole Dish
+2
+10.64
+ea.
+Granny Smith Apples
+3
+0.85
+lbs.
+Romaine Lettuce
+1
+4.20
+head
+Gerbers Baby Food
+12
+1.24
+jars
+2% Milk
+1
+3.29
+qt.
+Vanilla Ice Cream
+1
+5.89
+L
+Birthday Cake
+1
+38.29
+ea.
